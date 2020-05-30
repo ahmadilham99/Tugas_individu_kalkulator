@@ -1,0 +1,9 @@
+E:\kuliah\semester 4\Pemrograman Visual\project\kalkulator2\kalkulator2\bin\Debug\kalkulator2.exe.config
+E:\kuliah\semester 4\Pemrograman Visual\project\kalkulator2\kalkulator2\bin\Debug\kalkulator2.exe
+E:\kuliah\semester 4\Pemrograman Visual\project\kalkulator2\kalkulator2\bin\Debug\kalkulator2.pdb
+E:\kuliah\semester 4\Pemrograman Visual\project\kalkulator2\kalkulator2\obj\Debug\kalkulator2.csprojAssemblyReference.cache
+E:\kuliah\semester 4\Pemrograman Visual\project\kalkulator2\kalkulator2\obj\Debug\kalkulator2.Form1.resources
+E:\kuliah\semester 4\Pemrograman Visual\project\kalkulator2\kalkulator2\obj\Debug\kalkulator2.Properties.Resources.resources
+E:\kuliah\semester 4\Pemrograman Visual\project\kalkulator2\kalkulator2\obj\Debug\kalkulator2.csproj.GenerateResource.cache
+E:\kuliah\semester 4\Pemrograman Visual\project\kalkulator2\kalkulator2\obj\Debug\kalkulator2.exe
+E:\kuliah\semester 4\Pemrograman Visual\project\kalkulator2\kalkulator2\obj\Debug\kalkulator2.pdb
