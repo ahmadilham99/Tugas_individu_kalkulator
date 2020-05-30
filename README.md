@@ -1,0 +1,5 @@
+# Tugas_individu_kalkulator 
+
+# NAMA  : AHMAD ILHAM ALI MASHUDI
+# NIM   : 18051204075
+# PRODI : S1 TEKNIK INFORMATIKA (B)
